@@ -1,0 +1,11 @@
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\bin\Debug\netcoreapp2.0\Foods.deps.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\bin\Debug\netcoreapp2.0\Foods.runtimeconfig.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\bin\Debug\netcoreapp2.0\Foods.runtimeconfig.dev.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\bin\Debug\netcoreapp2.0\Foods.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.csproj.CoreCompileInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.AssemblyInfoInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.AssemblyInfo.cs
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\bin\Debug\netcoreapp2.0\Foods.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Foods\Foods\obj\Debug\netcoreapp2.0\Foods.pdb
